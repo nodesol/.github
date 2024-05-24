@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://www.nodesol.com/images/logo.webp" alt="Nodesol Corp" /><br />
+<img src="https://www.nodesol.com/images/logo.svg" alt="Nodesol Corp" /><br />
 
 Innovative Quality Solutions
 </h1>
